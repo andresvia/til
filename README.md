@@ -1,10 +1,10 @@
 # Today I learned
 
-Counter: 1
+Counter: 2
 
 ## JS
 
- - [JavaScript sorts arrays in a funky way](js/javascript-sort)
+ - [JavaScript sorts arrays in a funky way](js/javascript-sort.md)
 
 ## Ops
 
