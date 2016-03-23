@@ -1,6 +1,10 @@
 # Today I learned
 
-Counter: 2
+Counter: 3
+
+## Bash
+
+ - [Outer loops can be broken](bash/breaking-the-loop.md)
 
 ## JS
 
